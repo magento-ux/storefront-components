@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/about/</loc>
+<loc>/storefront-components/about/</loc>
 </url>
 <url>
-<loc>/components/</loc>
+<loc>/storefront-components/components/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>/storefront-components/</loc>
 </url>
 <url>
-<loc>/search.html</loc>
+<loc>/storefront-components/search.html</loc>
 </url>
 </urlset>
