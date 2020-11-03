@@ -93,17 +93,35 @@
     </a>
 
     <div id="nav-main" class="nav-main-wrap" aria-labelledby="menu-btn">
-      <ul class="nav-main spectrum-Tabs desktop-view mobile-view spectrum-Tabs--vertical" role="menubar">
-  
-    <li class="nav-main-item spectrum-Tabs-item"><a class="spectrum-Menu-itemLabel" href="/storefront-components/foundation/">Foundation</a></li>
-  
-    <li class="nav-main-item spectrum-Tabs-item"><a class="spectrum-Menu-itemLabel" href="/storefront-components/components/">Components</a></li>
-  
-    <li class="nav-main-item spectrum-Tabs-item"><a class="spectrum-Menu-itemLabel" href="/storefront-components/templates/">Templates</a></li>
-  
-    <li class="nav-main-item spectrum-Tabs-item"><a class="spectrum-Menu-itemLabel" href="/storefront-components/pages/">Pages</a></li>
-  
-</ul>
+      <div class="conmponents-navigation-container">
+  <ul class="nav-main spectrum-Tabs desktop-view mobile-view spectrum-Tabs--vertical" role="menubar">
+    
+      <li class="nav-main-item spectrum-Tabs-item"><a class="spectrum-Menu-itemLabel" href="/storefront-components/foundation/">Foundation</a></li>
+    
+      <li class="nav-main-item spectrum-Tabs-item"><a class="spectrum-Menu-itemLabel" href="/storefront-components/components/">Components</a></li>
+    
+      <li class="nav-main-item spectrum-Tabs-item"><a class="spectrum-Menu-itemLabel" href="/storefront-components/templates/">Templates</a></li>
+    
+      <li class="nav-main-item spectrum-Tabs-item"><a class="spectrum-Menu-itemLabel" href="/storefront-components/pages/">Pages</a></li>
+    
+  </ul>
+
+  <div class="components-navigation-button">  
+    <a href="https://link-to-xd.com/" class="spectrum-Button spectrum-Button--cta"><span class="spectrum-Button-label">Get UI Kit</span></a>
+  </div>
+</div>
+
+<style>
+  .conmponents-navigation-container {
+    display: grid;
+    grid-template-columns: 1fr 100px 120px;
+  }
+  .components-navigation-button {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+  }
+</style>
 
     </div>
 
@@ -391,6 +409,7 @@
 <script src="/storefront-components/assets/js/editions.min.js?ver=13"></script>
 <script src="/storefront-components/assets/js/page-updated.min.js?ver=13"></script>
 
+<script src="/storefront-components/assets/js/image-switch.js"></script>
 
 
 </body>
