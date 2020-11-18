@@ -19,7 +19,16 @@
 <loc>/storefront-components/components/</loc>
 </url>
 <url>
+<loc>/storefront-components/components/form/</loc>
+</url>
+<url>
 <loc>/storefront-components/foundation/</loc>
+</url>
+<url>
+<loc>/storefront-components/foundation/grid/</loc>
+</url>
+<url>
+<loc>/storefront-components/foundation/icons/</loc>
 </url>
 <url>
 <loc>/storefront-components/</loc>
@@ -29,6 +38,9 @@
 </url>
 <url>
 <loc>/storefront-components/search/</loc>
+</url>
+<url>
+<loc>/storefront-components/foundation/spacing/</loc>
 </url>
 <url>
 <loc>/storefront-components/templates/</loc>
