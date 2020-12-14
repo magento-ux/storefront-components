@@ -5,20 +5,44 @@ links:
   prototype: https://xd.adobe.com/view/4f6db8c0-2a57-4240-9ee3-5618ca3d721f-1a3e/
   pwa_studio: https://magento.github.io/pwa-studio/venia-ui/reference/components/Button/
   source: https://github.com/magento/pwa-studio/blob/develop/packages/venia-ui/lib/components/Button/button.js
-
 ---
+
+Put an overwiev image here:
+
+![Wireframe](https://placekitten.com/640/480)
+
 
 ## Anatomy
 
+Optional section, reserved for complex components to show the details of the component structure.
 
+![Wireframe](https://placekitten.com/640/480)
 
 ## Options
 
-1. Primary
-2. Secondary
-3. Tertiary
+This section is for variations of the component (if any). 
+### Primary
+
+### Secondary
+
+
+## Behaviors
+
+This section is to describe the interactions. 
+
+### Behavior one
+
+
+### Behavior two
+
 
 ## Examples
+
+Show usecases of the component.
+
+## Themes
+
+Show the theme variations of the components, maybe even examples from partners or merchants?
 
 {% imageswitch %}
 ![Wireframe](https://placekitten.com/640/480)
@@ -28,10 +52,12 @@ links:
 
 ## Best practices
 
-- Use it when...
+Recommended usage or links to a studies? (optional section)
+  
+  - Consider this:
+  - Data shows that...
 
 
-##  B2b considerations 
-{: .b2b-only}
+## Specs
 
-...
+Show paddings, margins and other considerations like spacing. Maybe research to tokens? Should this go after Anatomy?
